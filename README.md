@@ -1,4 +1,4 @@
-# https://626-ju.github.io/
+# https://626-ju.github.io/custom-app-styled/
 
 
 1) 톱니 아이콘을 누른 후 배경, 컴포넌트의 사이즈 및 위치, FontColor를 변경할 수 있습니다.
